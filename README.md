@@ -20,6 +20,10 @@ Run `npm start` to start the built-in web server at [http://localhost:3000](http
 
 Run `npm run build` to build the project.
 
-added dependency in package.json
-installed : npm i daypilot-pro-react
-run : npm run build
+##Project Specific
+
+1. added dependency in package.json. :      "daypilot-pro-react": "https://npm.daypilot.org/daypilot-pro-react/trial/2021.3.5014.tar.gz",
+
+2. installed : npm i daypilot-pro-react
+
+3. run : npm run build
